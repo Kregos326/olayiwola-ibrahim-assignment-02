@@ -38,7 +38,7 @@ function countEvenNumbers(arrayOfNumbers) {
             count += 1;
         }
     }
-    return count;
+    return count
 }
  assignment.countEvenNumbers = countEvenNumbers;
 
